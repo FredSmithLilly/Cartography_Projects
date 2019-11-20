@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 5.14" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="41.55020000" minlon="-74.43150000" maxlat="41.55020000" maxlon="-74.43150000"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-08-22T20:29:00.535Z</time>
+</extensions>
+</metadata>
+<wpt lat="41.55020000" lon="-74.43150000">
+<time>2019-08-22T20:23:30.163Z</time>
+<desc>Bloomingburg Rural Cemetery.  George and Leah Newkirk Smith, parents of John D. Smith.  Farm in Mamakating Sullivan County.</desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-08-22T20:29:00.535Z</time>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>
